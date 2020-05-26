@@ -10,8 +10,6 @@ Please also see the original website https://sites.google.com/view/wsvd/home, an
 <br>
 To download the dataset, you can directly run the following script, which will create a subdirectory wsvd inside your working folder, and directly start downloading the videos in the dataset. The dataset is approximately 50G.
 <code>bash downloader_script.sh</code>
- 
 <br>
 <br>
-
 If you would like to generate the video ID list again, you will need a YouTube API key. In that case, create your YouTube API key, and fill it in the script <code>valid_id_list_creator.py</code>
