@@ -1,7 +1,7 @@
 # wsvd_dataset_loader
 Loader for the WSVD dataset - eliminating invalid/deleted youtube videos or the videos with copyright issues.
 
-# Web Stereo Video Supervision for Depth Prediction from Dynamic Scenes
+## Web Stereo Video Supervision for Depth Prediction from Dynamic Scenes
 From the paper [Wang etal. 3DV19](https://arxiv.org/pdf/1904.11112.pdf)
 <br>
 Please see the original website https://sites.google.com/view/wsvd/home, and the original repository of the authors https://github.com/MightyChaos/wsvd_test
